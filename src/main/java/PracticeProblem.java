@@ -10,7 +10,11 @@
 public class PracticeProblem {
 
 	public static void main(String args[]) {
-
+		q1();
+		q2();
+		q3();
+		q4();
+		q5();
 	}
 
 	public static void q1() {
